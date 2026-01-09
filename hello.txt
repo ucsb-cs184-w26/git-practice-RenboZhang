@@ -7,3 +7,5 @@ Add feature-b
 Add feature-b
 
 new code that makes feature-b work! 
+
+Add feature-c
